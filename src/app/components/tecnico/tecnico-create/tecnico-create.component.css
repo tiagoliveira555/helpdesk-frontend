@@ -25,10 +25,14 @@ img {
 }
 
 button {
-    margin: .5rem;
+    margin: .2rem;
 }
 
 p {
     margin-top: 2rem;
     opacity: .5;
+}
+
+mat-icon {
+    opacity: .8;
 }
