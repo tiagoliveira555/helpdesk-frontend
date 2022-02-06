@@ -11,6 +11,7 @@ import { TecnicoService } from 'src/app/services/tecnico.service';
   styleUrls: ['./tecnico-update.component.css']
 })
 export class TecnicoUpdateComponent implements OnInit {
+  
   tecnico: Tecnico = {
     id: '',
     nome: '',
